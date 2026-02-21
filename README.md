@@ -43,7 +43,7 @@ How accurately can machine learning models classify coupon acceptance behavior?
 - Certain coupon categories had significantly higher acceptance rates.
 
 ## 🛠 Tech Used
-Python | SQL | PySpark | Power BI
+Python, NumPy, Pandas, Matplotlib, Seaborn, sci-kit learn
 
 ## 🚀 Business Impact
 This project demonstrates how data-driven recommendation systems can:
