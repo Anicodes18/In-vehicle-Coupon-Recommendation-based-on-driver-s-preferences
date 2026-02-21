@@ -39,8 +39,8 @@ How accurately can machine learning models classify coupon acceptance behavior?
 
 ## 📊 Key Insights
 -  Contextual factors (time of day, passenger type, weather) influenced decision behavior.
-- Ensemble Randome Forest model outperformed the baseline logistic regression model in predictive accuracy.
-- 
+- Ensemble Random Forest model outperformed the baseline logistic regression model in predictive accuracy.
+- Certain coupon categories had significantly higher acceptance rates.
 
 ## 🛠 Tech Used
 Python | SQL | PySpark | Power BI
