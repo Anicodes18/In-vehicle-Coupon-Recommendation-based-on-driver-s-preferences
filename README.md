@@ -31,6 +31,18 @@ How accurately can machine learning models classify coupon acceptance behavior?
   1. Logistic Regression
   2. Ridge and Lasso Regression
   3. Random Forest Classifier
+ 
+To improve performance and generalization, hyperparameter tuning was performed using cross-validation.
+
+🔧 Hyperparameter Tuning
+- Grid Search
+- Cross-validation to prevent overfitting
+- Optimization based on Accuracy
+
+Key parameters tuned included:
+- n_estimators
+- max_depth
+- min_samples_split
 
 - Evaluation metrics:
   Accuracy, Precision, Recall, F1-score, Confusion Matrix, ROC-AUC
